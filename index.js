@@ -1,7 +1,7 @@
 /**
   * created by ibnusyawall
   * name : spam-wa
-  * wa   : 082299265151
+  * wa   : 088290494678
 **/
 
 const request = require('needle')
@@ -46,4 +46,5 @@ tanya.question('['+'?'.magenta+'] Nomor : ', (_no_) => {
     return main(_no_, `${_de_}000`)
   })
 })
+
 
